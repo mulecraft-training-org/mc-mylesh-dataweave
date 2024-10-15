@@ -3,7 +3,7 @@
 
 Click below to try `Addition` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=Function/Addition">Addition Funtion</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-mylesh-dataweave&path=Function/Addition">Addition Funtion</a>
 
 #### Subtraction of two operators
 
