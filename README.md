@@ -34,3 +34,11 @@ Click below to try `lesserThenEqual` function in DataWeave:
 Click below to try `Equal` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=Function%2FEqual">Equal Funtion</a>
+
+#### Adding-two-array-in-Flatten of two operators
+
+Click below to try `Adding-two-array-in-Flatten` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=Function%2FAdding-two-array(flatten)">Adding-two-array-in-Flatten Funtion</a>
+
+
