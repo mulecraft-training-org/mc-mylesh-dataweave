@@ -27,7 +27,12 @@ Click below to try `greaterThenEqual` function in DataWeave:
 
 Click below to try `lesserThenEqual` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=Function%2FLesserThenEqual">Subtraction Funtion</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=Function%2FLesserThenEqual">LesserthenEqual Funtion</a>
+#### LesserThen of two operators
+
+Click below to try `lesserThen` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=Function%2FLesserThenEqual">lesserThen</a>
 
 #### Equal of two operators
 
