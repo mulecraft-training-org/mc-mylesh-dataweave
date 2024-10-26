@@ -2,6 +2,7 @@
 import * from dw::core::Arrays
 output application/json
 ---
+
 {
     "detail": payload map ((value, index) -> value )
                       then  {
