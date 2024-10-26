@@ -7,6 +7,6 @@ output application/json
                       then  {
                           firstName: $[0],
                           lastName: $[1],
-                          fullName: $
+                          fullName: $ joinBy " "
                       }
 }
