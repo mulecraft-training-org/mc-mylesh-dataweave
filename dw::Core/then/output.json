@@ -2,6 +2,6 @@
   "detail": {
     "firstName": "John",
     "lastName": "deo",
-    "fullName": [ "John", "deo"]
+    "fullName": "John deo"
   }
 }
