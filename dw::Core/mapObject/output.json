@@ -1,0 +1,11 @@
+{
+  "0": {
+    "firstName": "john"
+  },
+  "1": {
+    "lastName": "Wick"
+  },
+  "2": {
+    "age": 30
+  }
+}
