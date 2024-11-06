@@ -66,4 +66,8 @@ Click below to try `Adding-two-array-in-Flatten` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=Function%2FAdding-two-array(flatten)">Adding-two-array-in-Flatten Funtion</a>
 
+#### Drop-the-array by position 
 
+Click below to try `Drop-the-array by position` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=dc::array/drop">Drop-the-array by position </a>
