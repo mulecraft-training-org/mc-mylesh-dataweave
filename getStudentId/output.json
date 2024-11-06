@@ -1,0 +1,12 @@
+[
+  {
+    "studentId": 1,
+    "status": "201",
+    "response": "student details created"
+  },
+  {
+    "studentId": 2,
+    "status": "201",
+    "response": "student details created"
+  }
+]
