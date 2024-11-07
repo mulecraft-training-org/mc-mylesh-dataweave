@@ -3,4 +3,4 @@ import * from dw::core::Arrays
 output application/json
 
 ---
-payload partition ((item) -> isEmpty(item) )
+payload partition ((item) -> isEven(item) )
