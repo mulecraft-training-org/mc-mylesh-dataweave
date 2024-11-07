@@ -76,7 +76,7 @@ Click below to try `Drop-the-array by position` function in DataWeave:
 
 Click below to try `Divied-the-array by position` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=dc::array/divideBy">Drop-the-array by position </a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=dc::array/divideBy">Divied-the-array by position </a>
 
 
 
