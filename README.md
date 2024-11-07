@@ -71,3 +71,12 @@ Click below to try `Adding-two-array-in-Flatten` function in DataWeave:
 Click below to try `Drop-the-array by position` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=dc::array/drop">Drop-the-array by position </a>
+
+#### Divied-the-array by position 
+
+Click below to try `Divied-the-array by position` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=dc::array/divideBy">Drop-the-array by position </a>
+
+
+
