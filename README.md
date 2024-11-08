@@ -84,5 +84,15 @@ Click below to try `Partition-the-array by position` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=dc::array/partition">Partition-the-array by position </a>
 
+#### SplitWhere
 
+Click below to try `SplitWhere by position` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=dc::array/splitWhere">SplitWhere by position </a>
+
+#### SplitAt
+
+Click below to try `SplitAt by position` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft%2Fmc-mylesh-dataweave&path=dc::array/splitAt">SplitWhere by position </a>
 
