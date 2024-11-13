@@ -34,7 +34,7 @@ Click below to try `greaterThenEqual` function in DataWeave:
 
 Click below to try `greaterThen` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=Function%2FGreaterThen">GreaterThen Funtion</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Function/GreatertThen">GreaterThen Funtion</a>
 
 #### LesserThenEqual of two operators
 
