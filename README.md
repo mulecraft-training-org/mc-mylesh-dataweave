@@ -34,7 +34,7 @@ Click below to try `greaterThenEqual` function in DataWeave:
 
 Click below to try `greaterThen` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Function/GreatertThen">GreaterThen Funtion</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=Function/GreaterThen">GreaterThen Funtion</a>
 
 #### LesserThenEqual of two operators
 
@@ -94,10 +94,10 @@ Click below to try `SplitWhere by position` function in DataWeave:
 
 Click below to try `SplitAt by position` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/splitAt">SplitWhere by position </a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/splitAt">SplitAt by position </a>
 
 #### Take
 
 Click below to try `Take by position` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dc::array/take">SplitWhere by position </a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dc::array/take">Take by position </a>
