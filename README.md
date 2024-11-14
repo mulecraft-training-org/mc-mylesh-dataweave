@@ -86,9 +86,9 @@ Click below to try `Partition-the-array by position` function in DataWeave:
 
 #### SplitWhere
 
-Click below to try `SplitWhere by position` function in DataWeave:
+Click below to try `SplitWhere by condition` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/splitWhere">SplitWhere by position </a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/splitWhere">SplitWhere by condition </a>
 
 #### SplitAt
 
@@ -101,3 +101,11 @@ Click below to try `SplitAt by position` function in DataWeave:
 Click below to try `Take by position` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dc::array/take">Take by position </a>
+
+#### TakeWhile
+
+Click below to try `TakeWhile by position` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dc::array/takeWhile">TakeWhile by position </a>
+
+
