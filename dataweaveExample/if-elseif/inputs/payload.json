@@ -1,0 +1,22 @@
+{
+          "id": 1,
+          "createAt": "2024-11-12T15:30:00",
+          "orgId" : "123e4567-e89b-12d3-9456-426614174000",
+          "companyId" : "123e4567-e89b-12d3-9456-426614174000",
+          "userId" : "123e4567-e89b-12d3-9456-426614174000",
+          "productId" : "123e4567-e89b-12d3-9456-426614174000",
+          "quantity" : 1,
+          "totalPrice" : "200",
+          "paymentStatus" : true,
+          "address": "123 Main St, Apt 4B, Springfield, IL 62704, USA",
+          "phone": "9876543210",
+          "email" : "ayul.supabase@gmail.com",
+          "paymentId" : "12345",
+          "subtotal" : 80,
+          "discount": 10,
+          "gst" : 10,
+          "invoiceStatus": true,
+          "draft": true,
+          "deliveryStatus" : true,
+          "returnStatus": false
+        }
