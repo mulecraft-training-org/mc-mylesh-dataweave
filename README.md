@@ -102,10 +102,26 @@ Click below to try `Take by position` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dc::array/take">Take by position </a>
 
-#### TakeWhile
+#### Take While
 
 Click below to try `TakeWhile by position` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dc::array/takeWhile">TakeWhile by position </a>
 
+#### Create Date
 
+Click below to try `Create Date` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/createDate">Create Date</a>
+
+#### Create Time
+
+Click below to try `Create Time` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/createTime">Create Time</a>
+
+#### Create Local Time
+
+Click below to try `Create Local Time` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/createLocalTime">Create Local Time</a>
