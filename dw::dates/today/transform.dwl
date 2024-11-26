@@ -2,4 +2,6 @@
 import * from dw::core::Dates
 output application/json
 ---
-today()
+{
+    "todayDate" : today()
+}
