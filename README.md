@@ -125,3 +125,22 @@ Click below to try `Create Time` function in DataWeave:
 Click below to try `Create Local Time` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/createLocalTime">Create Local Time</a>
+
+#### Today Date
+
+Click below to try `Today Date` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/today">Today Date</a>
+
+#### Tomorrow Date
+
+Click below to try `Tomorrow Date` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/tomorrow">Tomorrow Date</a>
+
+#### Yesterday Date
+
+Click below to try `Yesterday Date` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/yesterday">Yesterday Date</a>
+
