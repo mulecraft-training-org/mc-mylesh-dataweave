@@ -144,3 +144,32 @@ Click below to try `Yesterday Date` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/yesterday">Yesterday Date</a>
 
+#### Beginning of Day
+
+Click below to try `Beginning of Date` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfDay">Beginning of Date</a>
+
+#### Beginning of Hour
+
+Click below to try `Beginning of Hour` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfHour">Beginning of Hour</a>
+
+#### Beginning of Week
+
+Click below to try `Beginning of week` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfWeek">Beginning of Week</a>
+
+#### Beginning of Month
+
+Click below to try `Beginning of Month` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfMonth">Beginning of Month</a>
+
+#### Beginning of Year
+
+Click below to try `Beginning of Year` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfYear">Beginning of Year</a>
