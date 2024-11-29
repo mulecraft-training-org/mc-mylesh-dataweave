@@ -180,5 +180,34 @@ Click below to try `Change Date Time Format` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/dateTimeFormat">Change Date Time Format</a>
 
-## Change Date Time Format
-# Change Date Time Format
+## Exercise
+
+#### Date Time Format(XMLtoJSON)
+
+Click below to try `Date Time Format` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/dateTimeFormat(XMLtoJson)">Date Time Format</a>
+
+#### KeyValue to Uppercase
+
+Click below to try `KeyValue to Uppercase` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/keyValueToUpperCase">KeyValue to Uppercase</a>
+
+#### Nested Flatten
+
+Click below to try `Nested Flatten` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/nestedFlatten">Nested Flatten</a>
+
+#### Reveser the sentence
+
+Click below to try `Reveser the sentence` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/reverseTheSentence">Reveser the sentence</a>
+
+#### Swap key value
+
+Click below to try `Swap key value` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/swap(key:value)">Swap key value</a>
