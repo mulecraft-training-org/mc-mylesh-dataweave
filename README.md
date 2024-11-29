@@ -173,3 +173,9 @@ Click below to try `Beginning of Month` function in DataWeave:
 Click below to try `Beginning of Year` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfYear">Beginning of Year</a>
+
+#### Change Date Time Format
+
+Click below to try `Change Date Time Format` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/dateTimeFormat">Change Date Time Format</a>
