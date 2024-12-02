@@ -79,6 +79,12 @@ Click below to try `EndsWith` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/endsWith">EndsWith</a>
 
+#### DaysBetween
+
+Click below to try `DaysBetween` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/daysBetween">DaysBetween</a>
+
 ## Array
 
 #### Adding-two-array-in-Flatten of two operators
