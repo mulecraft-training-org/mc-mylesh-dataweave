@@ -3,5 +3,5 @@ output application/json
 
 ---
 {
-  "daysDifferent" : daysBetween(payload.dob[1],payload.dob[0])
+  "daysDifferent" : daysBetween(payload.dob[1],payload.dob[0]) ++ " Days"
 }
