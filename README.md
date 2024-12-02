@@ -23,7 +23,6 @@ Click below to try `Division` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Function/division">Divsion Funtion</a>
 
-
 #### GreaterThenEqual of two operators
 
 Click below to try `greaterThenEqual` function in DataWeave:
@@ -59,6 +58,28 @@ Click below to try `Equal` function in DataWeave:
 Click below to try `ApproimatelyEqual` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Function/ApproximatelyEqual">ApproimatelyEqual Funtion</a>
+
+## Core
+
+#### AVG
+
+Click below to try `Finding average` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/avg">Finding average</a>
+
+#### Contains
+
+Click below to try `Contains` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/contains">Contains</a>
+
+#### EndsWith
+
+Click below to try `EndsWith` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/endsWith">EndsWith</a>
+
+## Array
 
 #### Adding-two-array-in-Flatten of two operators
 
