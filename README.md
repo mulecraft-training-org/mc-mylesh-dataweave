@@ -85,6 +85,29 @@ Click below to try `DaysBetween` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/daysBetween">DaysBetween</a>
 
+#### EndsWith
+
+Click below to try `EndsWith` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/endsWith">EndsWith</a>
+
+#### Filter
+
+Click below to try `Filter` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/filter">Filter</a>
+
+#### Filter Object
+
+Click below to try `Filter Object` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/filterObject">Filter Object</a>
+
+#### 
+
+Click below to try `Filter Object` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/filterObject">Filter Object</a>
 ## Array
 
 #### Adding-two-array-in-Flatten of two operators
