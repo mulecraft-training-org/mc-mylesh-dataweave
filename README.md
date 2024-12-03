@@ -109,6 +109,11 @@ Click below to try `Floor` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/floor">Floor</a>
 
+#### IsBlank
+
+Click below to try `IsBlank` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/isBlank">IsBlank</a>
 
 ## Array
 
