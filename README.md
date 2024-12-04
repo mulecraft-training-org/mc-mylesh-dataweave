@@ -115,6 +115,25 @@ Click below to try `IsBlank` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/isBlank">IsBlank</a>
 
+#### IsEmpty
+
+Click below to try `IsEmpty` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/isEmpty">IsEmpty</a>
+
+#### Match
+
+Click below to try `Match` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/match">Match</a>
+
+#### Matches
+
+Click below to try `Matches` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/matches">Matches</a>
+
+
 ## Array
 
 #### Adding-two-array-in-Flatten of two operators
