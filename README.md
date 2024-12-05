@@ -139,7 +139,11 @@ Click below to try `Reduce` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/reduce">Reduce</a>
 
+#### Replace
 
+Click below to try `Replace` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/replace">Replace</a>
 
 ## Array
 
