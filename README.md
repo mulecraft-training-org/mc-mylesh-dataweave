@@ -133,6 +133,13 @@ Click below to try `Matches` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/matches">Matches</a>
 
+#### Reduce
+
+Click below to try `Reduce` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/reduce">Reduce</a>
+
+
 
 ## Array
 
