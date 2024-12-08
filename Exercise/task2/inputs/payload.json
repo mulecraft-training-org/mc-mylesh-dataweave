@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alice",
+    "startDate": "2024-01-01",
+    "endDate": "2024-10-01"
+  },
+  {
+    "name": "Bob",
+    "startDate": "2024-03-01",
+    "endDate": null
+  },
+  {
+    "name": "Charlie",
+    "startDate": "2023-06-15",
+    "endDate": "2024-02-01"
+  }
+]
