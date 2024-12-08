@@ -298,3 +298,11 @@ Click below to try `Reveser the sentence` function in DataWeave:
 Click below to try `Swap key value` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/swap(key:value)">Swap key value</a>
+
+#### Task 2
+
+Click below to try `Task 2` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/task2">Task 2</a>
+
+
