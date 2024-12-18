@@ -299,6 +299,12 @@ Click below to try `Swap key value` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/swap(key:value)">Swap key value</a>
 
+#### Task 1
+
+Click below to try `Task 1` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/task1">Task 1</a>
+
 #### Task 2
 
 Click below to try `Task 2` function in DataWeave:
@@ -310,6 +316,3 @@ Click below to try `Task 2` function in DataWeave:
 Click below to try `Task 3` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/task3">Task 3</a>
-
-
-
