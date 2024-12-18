@@ -15,9 +15,9 @@ output application/json
     "totalStock" : (payload filter ((item) -> (item.category == "Electronics"))).stock reduce ((item, acc = 0) -> acc + item )
 }
 
-//1.calculate:
-//      Total stock: Sum of the stock field for all products.
+// Identify and remove products with null or blank productName.
+// include only products in the "Electronics" category.
+// Replace "Old" in productName with "Classic" 
+// calculate:
 //      Total inventory value: Sum of (price * stock) for all products.
-//2.Identify and remove products with null or blank productName.
-//3.include only products in the "Electronics" category.
-//4.Replace "Old" in productName with "Classic" 
+//      Total stock: Sum of the stock field for all products.
