@@ -1,0 +1,7 @@
+%dw 2.0
+output application/json
+---
+payload map({
+    "Name" : $.name,
+    "EmailId" : flatten($.email scan(/([a-z]*).([a-z]*).([a-z]*)/))
+})
