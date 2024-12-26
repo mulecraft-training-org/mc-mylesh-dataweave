@@ -145,6 +145,18 @@ Click below to try `Replace` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/replace">Replace</a>
 
+#### Round
+
+Click below to try `Round` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/round">Round</a>
+
+#### Scan
+
+Click below to try `Scan` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/scan">Scan</a>
+
 ## Array
 
 #### Adding-two-array-in-Flatten of two operators
