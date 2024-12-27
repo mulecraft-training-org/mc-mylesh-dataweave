@@ -175,6 +175,12 @@ Click below to try `SquareRoot` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/squareRoot">SquareRoot</a>
 
+#### Then
+
+Click below to try `Then` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/then">Then</a>
+
 ## Array
 
 #### Adding-two-array-in-Flatten of two operators
