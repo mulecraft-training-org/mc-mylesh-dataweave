@@ -157,6 +157,18 @@ Click below to try `Scan` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/scan">Scan</a>
 
+#### SizeOf
+
+Click below to try `SizeOf` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/sizeOf">SizeOf</a>
+
+#### SplitBy
+
+Click below to try `SplitBy` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/splitBy">SplitBy</a>
+
 ## Array
 
 #### Adding-two-array-in-Flatten of two operators
