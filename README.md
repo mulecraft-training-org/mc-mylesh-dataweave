@@ -181,6 +181,13 @@ Click below to try `Then` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/then">Then</a>
 
+#### To
+
+Click below to try `To` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/to">TO</a>
+
+
 ## Array
 
 #### Adding-two-array-in-Flatten of two operators
