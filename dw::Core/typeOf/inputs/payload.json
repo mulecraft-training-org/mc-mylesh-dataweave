@@ -1,0 +1,7 @@
+{
+    "type1": "Hello",
+    "type2" : 100,
+    "type3" : true,
+    "type4" : {"key" : "value"},
+    "type5" : [1,2,3,4]
+}
