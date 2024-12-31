@@ -223,6 +223,12 @@ Click below to try `UUID` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/uuid">UUID</a>
 
+#### ValueOf
+
+Click below to try `ValueOf` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/valuesOf">ValueOf</a>
+
 ## Array
 
 #### Adding-two-array-in-Flatten of two operators
