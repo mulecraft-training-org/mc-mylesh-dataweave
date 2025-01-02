@@ -139,6 +139,31 @@ Click below to try `Matches` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/matches">Matches</a>
 
+#### Max
+
+Click below to try `Max` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/max">Max</a>
+
+#### MaxBy
+
+Click below to try `MaxBy` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/maxBy">MaxBy</a>
+
+#### Min
+
+Click below to try `Min` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/min">Min</a>
+
+#### MinBy
+
+Click below to try `MinBy` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/minBy">MinBy</a>
+
+
 #### Reduce
 
 Click below to try `Reduce` function in DataWeave:
