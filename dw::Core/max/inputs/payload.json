@@ -1,0 +1,5 @@
+{
+    "name" : "john",
+    "subject" : ["maths","science","english"],
+    "markes" : [70,85,93]
+}
