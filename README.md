@@ -109,6 +109,12 @@ Click below to try `Floor` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/floor">Floor</a>
 
+#### GroupBy
+
+Click below to try `GroupBy` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/groupby">GroupBy</a>
+
 #### IsBlank
 
 Click below to try `IsBlank` function in DataWeave:
