@@ -1,0 +1,8 @@
+{
+  "Details": {
+    "Name": "john",
+    "Age": 23,
+    "DOB": "2002-01-01"
+  },
+  "IsLeapYear": false
+}
