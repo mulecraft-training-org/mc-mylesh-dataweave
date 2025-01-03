@@ -91,6 +91,12 @@ Click below to try `EndsWith` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/endsWith">EndsWith</a>
 
+#### EntriesOf
+
+Click below to try `EntriesOf` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/entriesOf">EntriesOf</a>
+
 #### Filter
 
 Click below to try `Filter` function in DataWeave:
@@ -126,6 +132,18 @@ Click below to try `IsBlank` function in DataWeave:
 Click below to try `IsEmpty` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/isEmpty">IsEmpty</a>
+
+#### IsLeapYear
+
+Click below to try `IsLeapYear` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/isLeapYear">IsLeapYear</a>
+
+#### LastIndexOf
+
+Click below to try `LastIndexOf` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/lastIndexOf">LastIndexOf</a>
 
 #### Match
 
