@@ -1,0 +1,12 @@
+[
+  {
+    "key": "xml",
+    "value": {
+      "a": "true",
+      "b": "1"
+    },
+    "attributes": {
+      "attr": "x"
+    }
+  }
+]
