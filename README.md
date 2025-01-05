@@ -61,6 +61,11 @@ Click below to try `ApproimatelyEqual` function in DataWeave:
 
 ## Core
 
+#### ABS
+
+Click below to try `ABS` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/abs">ABS</a>
 #### AVG
 
 Click below to try `Finding average` function in DataWeave:
