@@ -163,6 +163,18 @@ Click below to try `LastIndexOf` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/lastIndexOf">LastIndexOf</a>
 
+#### Map
+
+Click below to try `Map` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/map">Map</a>
+
+#### MapObject
+
+Click below to try `MapObject` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/mapObject">MapObject</a>
+
 #### Match
 
 Click below to try `Match` function in DataWeave:
