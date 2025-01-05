@@ -65,7 +65,8 @@ Click below to try `ApproimatelyEqual` function in DataWeave:
 
 Click below to try `ABS` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/abs">ABS</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/abs">ABS</a>
+
 #### AVG
 
 Click below to try `Finding average` function in DataWeave:
@@ -77,12 +78,6 @@ Click below to try `Finding average` function in DataWeave:
 Click below to try `Contains` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/contains">Contains</a>
-
-#### EndsWith
-
-Click below to try `EndsWith` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/endsWith">EndsWith</a>
 
 #### DaysBetween
 
@@ -114,6 +109,12 @@ Click below to try `Filter Object` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/filterObject">Filter Object</a>
 
+#### Flatten
+
+Click below to try `Flatten` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/flatten">Flatten</a>
+
 #### Floor
 
 Click below to try `Floor` function in DataWeave:
@@ -126,6 +127,12 @@ Click below to try `GroupBy` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/groupby">GroupBy</a>
 
+#### IndexOf
+
+Click below to try `IndexOf` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/indexof">IndexOf</a>
+
 #### IsBlank
 
 Click below to try `IsBlank` function in DataWeave:
@@ -137,6 +144,12 @@ Click below to try `IsBlank` function in DataWeave:
 Click below to try `IsEmpty` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/isEmpty">IsEmpty</a>
+
+#### IsInteger
+
+Click below to try `IsInteger` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/isInteger">IsInteger</a>
 
 #### IsLeapYear
 
