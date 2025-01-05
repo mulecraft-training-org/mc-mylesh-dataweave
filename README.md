@@ -186,6 +186,11 @@ Click below to try `MinBy` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/minBy">MinBy</a>
 
+#### POW
+
+Click below to try `POW` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/pow">POW</a>
 
 #### Reduce
 
