@@ -4,4 +4,4 @@ output application/json
 ---
 drop (payload,4)
 
-//it will drop the data from the array 
+//it will drop the data from the array up to the given value
