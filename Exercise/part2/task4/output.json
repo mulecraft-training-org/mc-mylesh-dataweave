@@ -1,0 +1,16 @@
+{
+  "totalValue": 4575,
+  "maxQuantityProduct": {
+    "id": "002",
+    "name": "Widget B",
+    "quantity": 200,
+    "price": 15
+  },
+  "minQuantityProduct": {
+    "id": "001",
+    "name": "Widget A",
+    "quantity": 150,
+    "price": 10.5
+  },
+  "isLeapyear": false
+}
