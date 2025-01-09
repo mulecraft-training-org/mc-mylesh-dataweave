@@ -1,0 +1,19 @@
+{
+  "manufacturingData": {
+    "products": [
+      {
+        "id": "001",
+        "name": "Widget A",
+        "quantity": 150,
+        "price": 10.5
+      },
+      {
+        "id": "002",
+        "name": "Widget B",
+        "quantity": 200,
+        "price": 15
+      }
+    ],
+    "date": "2023-10-01"
+  }
+}
