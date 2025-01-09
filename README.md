@@ -496,3 +496,28 @@ Click below to try `Task 2` function in DataWeave:
 Click below to try `Task 3` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/task3">Task 3</a>
+
+## Part - 2
+#### Task 1
+
+Click below to try `Task 1` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/part2/task1">Task 1</a>
+
+#### Task 2
+
+Click below to try `Task 2` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/part2/task2">Task 2</a>
+
+#### Task 3
+
+Click below to try `Task 3` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/part2/task3">Task 3</a>
+
+#### Task 4
+
+Click below to try `Task 4` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/part2/task4">Task 4</a>
