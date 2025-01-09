@@ -1,0 +1,18 @@
+{
+  "manufacturing": {
+    "products": [
+      {
+        "id": "P001",
+        "quantity": 50
+      },
+      {
+        "id": "P002",
+        "quantity": 30
+      },
+      {
+        "id": "P003",
+        "quantity": 20
+      }
+    ]
+  }
+}
