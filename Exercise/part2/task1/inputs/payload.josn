@@ -1,0 +1,18 @@
+{
+  "transportation": {
+    "routes": [
+      {
+        "routeId": "R1",
+        "distance": 150
+      },
+      {
+        "routeId": "R2",
+        "distance": 200
+      },
+      {
+        "routeId": "R3",
+        "distance": 100
+      }
+    ]
+  }
+}
