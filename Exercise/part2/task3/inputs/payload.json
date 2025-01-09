@@ -1,0 +1,10 @@
+{
+  "insurance": {
+    "policyNumber": "INS123456",
+    "premium": 1200.5,
+    "coverage": {
+      "type": "full",
+      "amount": 100000
+    }
+  }
+}
