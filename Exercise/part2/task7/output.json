@@ -1,0 +1,34 @@
+{
+  "customerSummaries": [
+    {
+      "customerId": "C001",
+      "fullName": "Alice Smith",
+      "activeSubscriptionsCount": 2,
+      "totalUsage": {
+        "dataUsedGB": 210,
+        "totalCallsMade": 300,
+        "totalSmsSent": 150
+      },
+      "billingSummary": {
+        "totalBilledAmount": 250,
+        "unpaidInvoicesCount": 1,
+        "nextDueDate": "2023-04-01"
+      }
+    },
+    {
+      "customerId": "C002",
+      "fullName": "Bob Johnson",
+      "activeSubscriptionsCount": 1,
+      "totalUsage": {
+        "dataUsedGB": 5,
+        "totalCallsMade": 100,
+        "totalSmsSent": 50
+      },
+      "billingSummary": {
+        "totalBilledAmount": 50,
+        "unpaidInvoicesCount": 1,
+        "nextDueDate": "2023-03-15"
+      }
+    }
+  ]
+}
