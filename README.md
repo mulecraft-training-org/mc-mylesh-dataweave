@@ -533,3 +533,9 @@ Click below to try `Task 5` function in DataWeave:
 Click below to try `Task 6` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/part2/task6">Task 6</a>
+
+#### Task 7
+
+Click below to try `Task 7` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=Exercise/part2/task7">Task 7</a>
