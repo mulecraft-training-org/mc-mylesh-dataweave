@@ -1,0 +1,71 @@
+{
+  "customerData": [
+    {
+      "customerId": "C001",
+      "name": "Alice Smith",
+      "subscriptions": [
+        {
+          "service": "Mobile",
+          "plan": "Unlimited",
+          "startDate": "2022-01-15",
+          "endDate": null,
+          "usage": {
+            "data": 10,
+            "calls": 300,
+            "sms": 150
+          }
+        },
+        {
+          "service": "Internet",
+          "plan": "Fiber 100",
+          "startDate": "2021-06-20",
+          "endDate": null,
+          "usage": {
+            "data": 200,
+            "calls": 0,
+            "sms": 0
+          }
+        }
+      ],
+      "billingHistory": [
+        {
+          "invoiceId": "INV001",
+          "amount": 120,
+          "dueDate": "2023-03-01",
+          "status": "PAID"
+        },
+        {
+          "invoiceId": "INV002",
+          "amount": 130,
+          "dueDate": "2023-04-01",
+          "status": "UNPAID"
+        }
+      ]
+    },
+    {
+      "customerId": "C002",
+      "name": "Bob Johnson",
+      "subscriptions": [
+        {
+          "service": "Mobile",
+          "plan": "Basic",
+          "startDate": "2023-02-01",
+          "endDate": null,
+          "usage": {
+            "data": 5,
+            "calls": 100,
+            "sms": 50
+          }
+        }
+      ],
+      "billingHistory": [
+        {
+          "invoiceId": "INV003",
+          "amount": 50,
+          "dueDate": "2023-03-15",
+          "status": "UNPAID"
+        }
+      ]
+    }
+  ]
+}
