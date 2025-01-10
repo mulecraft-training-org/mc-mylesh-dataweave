@@ -1,0 +1,23 @@
+{
+  "availableProducts": [
+    {
+      "productId": "001",
+      "productName": "Laptop",
+      "productPrice": 1200,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": "002",
+      "productName": "Smartphone",
+      "productPrice": 800,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": "003",
+      "productName": "Desk Chair",
+      "productPrice": 150,
+      "productCategory": "Furniture"
+    }
+  ],
+  "totalStock": 100
+}
