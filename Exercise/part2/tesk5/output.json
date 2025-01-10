@@ -1,0 +1,16 @@
+{
+  "topStudent": {
+    "name": "Jane",
+    "averageGrade": 91
+  },
+  "passingStudents": [
+    {
+      "name": "John",
+      "averageGrade": 85
+    },
+    {
+      "name": "Jane",
+      "averageGrade": 91
+    }
+  ]
+}
