@@ -327,30 +327,6 @@ Click below to try `ValueOf` function in DataWeave:
 
 ## Array
 
-#### Adding-two-array-in-Flatten of two operators
-
-Click below to try `Adding-two-array-in-Flatten` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=Function%2FAdding-two-array(flatten)">Adding-two-array-in-Flatten Funtion</a>
-
-#### Drop-the-array by position 
-
-Click below to try `Drop-the-array by position` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/drop">Drop-the-array by position </a>
-
-#### Divied-the-array by position 
-
-Click below to try `Divied-the-array by position` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/divideBy">Divied-the-array by position </a>
-
-#### Partition-the-array 
-
-Click below to try `Partition-the-array by position` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/partition">Partition-the-array by position </a>
-
 #### Count-By 
 
 Click below to try `Count-By` function in DataWeave:
