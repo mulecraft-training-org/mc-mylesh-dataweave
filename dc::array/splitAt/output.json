@@ -1,6 +1,0 @@
-{
-  "l": ["Marianom"],
-  "r": ["Leandro","Julian","Tomom"]
-}
-
-//it will return in object and it will take 'l' and 'r' reference to print the output.
