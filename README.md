@@ -351,101 +351,43 @@ Click below to try `Partition-the-array by position` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/partition">Partition-the-array by position </a>
 
-#### SplitWhere
+#### Count-By 
 
-Click below to try `SplitWhere by condition` function in DataWeave:
+Click below to try `Count-By` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/splitWhere">SplitWhere by condition </a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/countBy">Count-By</a>
 
-#### SplitAt
+#### Divied-By 
 
-Click below to try `SplitAt by position` function in DataWeave:
+Click below to try `Divied-By` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/splitAt">SplitAt by position </a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/divideBy">Divied-By</a>
 
-#### Take
+#### Drop
 
-Click below to try `Take by position` function in DataWeave:
+Click below to try `Drop` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dc::array/take">Take by position </a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/drop">Drop</a>
 
-#### Take While
+#### DropWhile
 
-Click below to try `TakeWhile by position` function in DataWeave:
+Click below to try `DropWhile` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dc::array/takeWhile">TakeWhile by position </a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/dropWhile">DropWhile</a>
 
-#### Create Date
+#### Every
 
-Click below to try `Create Date` function in DataWeave:
+Click below to try `Every` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/createDate">Create Date</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/every">Every</a>
 
-#### Create Time
+#### FirstWith
 
-Click below to try `Create Time` function in DataWeave:
+Click below to try `FirstWith` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/createTime">Create Time</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/firstWith">FirstWith</a>
 
-#### Create Local Time
 
-Click below to try `Create Local Time` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/createLocalTime">Create Local Time</a>
-
-#### Today Date
-
-Click below to try `Today Date` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/today">Today Date</a>
-
-#### Tomorrow Date
-
-Click below to try `Tomorrow Date` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/tomorrow">Tomorrow Date</a>
-
-#### Yesterday Date
-
-Click below to try `Yesterday Date` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/yesterday">Yesterday Date</a>
-
-#### Beginning of Day
-
-Click below to try `Beginning of Date` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfDay">Beginning of Date</a>
-
-#### Beginning of Hour
-
-Click below to try `Beginning of Hour` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfHour">Beginning of Hour</a>
-
-#### Beginning of Week
-
-Click below to try `Beginning of week` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfWeek">Beginning of Week</a>
-
-#### Beginning of Month
-
-Click below to try `Beginning of Month` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfMonth">Beginning of Month</a>
-
-#### Beginning of Year
-
-Click below to try `Beginning of Year` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/beginningOfYear">Beginning of Year</a>
-
-#### Change Date Time Format
-
-Click below to try `Change Date Time Format` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-mylesh-dataweave&path=dw::dates/dateTimeFormat">Change Date Time Format</a>
 
 ## Exercise
 
