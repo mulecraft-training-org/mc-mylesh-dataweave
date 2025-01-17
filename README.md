@@ -331,39 +331,43 @@ Click below to try `ValueOf` function in DataWeave:
 
 Click below to try `Count-By` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/countBy">Count-By</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/countBy">Count-By</a>
 
 #### Divied-By 
 
 Click below to try `Divied-By` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/divideBy">Divied-By</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/divideBy">Divied-By</a>
 
 #### Drop
 
 Click below to try `Drop` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/drop">Drop</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/drop">Drop</a>
 
 #### DropWhile
 
 Click below to try `DropWhile` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/dropWhile">DropWhile</a>
-
-#### Every
-
-Click below to try `Every` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/every">Every</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/dropWhile">DropWhile</a>
 
 #### FirstWith
 
 Click below to try `FirstWith` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dc::array/firstWith">FirstWith</a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/firstWith">FirstWith</a>
 
+#### IndexWhere
 
+Click below to try `IndexWhere` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/indexWhere">IndexWhere</a>
+
+#### Patition
+
+Click below to try `Patition` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/partition">Patition</a>
 
 ## Exercise
 
