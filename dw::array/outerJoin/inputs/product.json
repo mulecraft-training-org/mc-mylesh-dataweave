@@ -1,0 +1,18 @@
+[
+    {
+        "ownerId": "1",
+        "name":"DataWeave"
+    },
+    {
+        "ownerId": "1", 
+        "name":"BAT"
+    }, 
+    {
+        "ownerId": "3",
+        "name":"DataSense"
+    }, 
+    {
+        "ownerId": "4",
+        "name":"SmartConnectors"
+    }
+]
