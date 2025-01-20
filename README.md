@@ -363,12 +363,59 @@ Click below to try `IndexWhere` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/indexWhere">IndexWhere</a>
 
+#### Join
+
+Click below to try `Join` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/join">Join</a>
+
+#### LeftJoin
+
+Click below to try `LeftJoin` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/leftJoin">LeftJoin</a>
+
+#### OuterJoin
+
+Click below to try `OuterJoin` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/outerJoin">OuterJoin</a>
+
 #### Patition
 
 Click below to try `Patition` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/partition">Patition</a>
 
+#### Slice
+
+Click below to try `Slice` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/slice">Slice</a>
+
+#### Some
+
+Click below to try `Some` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/some">Some</a>
+
+#### SplitAt
+
+Click below to try `SplitAt` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/splitAt">SplitAt</a>
+
+#### SplitWhere
+
+Click below to try `SplitWhere` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/splitWhere">SplitWhere</a>
+
+#### Take
+
+Click below to try `Take` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/take">Take</a>
 ## Exercise
 
 #### Date Time Format(XMLtoJSON)
