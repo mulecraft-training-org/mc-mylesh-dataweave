@@ -351,6 +351,12 @@ Click below to try `DropWhile` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/dropWhile">DropWhile</a>
 
+#### Every
+
+Click below to try `Every` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/every">Every</a>
+
 #### FirstWith
 
 Click below to try `FirstWith` function in DataWeave:
