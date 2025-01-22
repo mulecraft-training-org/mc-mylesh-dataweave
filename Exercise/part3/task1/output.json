@@ -1,0 +1,17 @@
+{
+  "confirmedReservations": [
+    {
+      "customer": "Alice",
+      "totalPrice": 1200
+    },
+    {
+      "customer": "Charlie",
+      "totalPrice": 1500
+    },
+    {
+      "customer": "Eve",
+      "totalPrice": 900
+    }
+  ],
+  "averagePrice": 1200
+}
