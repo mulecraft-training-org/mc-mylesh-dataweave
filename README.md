@@ -436,9 +436,12 @@ Click below to try `AppendIfMissing` function in DataWeave:
 Click below to try `Camelize` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/camelize">Camelize</a>
-#### Camelize
-Click below to try `Camelize` function in DataWeave:
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/camelize">Camelize</a>
+#### Capitalize
+Click below to try `Capitalize` function in DataWeave:
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/capitalize">Capitalize</a>
+#### CharCode
+Click below to try `CharCode` function in DataWeave:
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/charCode">CharCode</a>
 
 ## Exercise
 
