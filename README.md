@@ -422,6 +422,24 @@ Click below to try `SplitWhere` function in DataWeave:
 Click below to try `Take` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::array/take">Take</a>
+
+## Strings
+
+#### AppendIfMissing
+
+Click below to try `AppendIfMissing` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/appendIfMissing">AppendIfMissing</a>
+
+#### Camelize
+
+Click below to try `Camelize` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/camelize">Camelize</a>
+#### Camelize
+Click below to try `Camelize` function in DataWeave:
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/camelize">Camelize</a>
+
 ## Exercise
 
 #### Date Time Format(XMLtoJSON)
