@@ -1,0 +1,12 @@
+{
+  "keys": [
+    "firstName",
+    "lastName",
+    "address"
+  ],
+  "Values": [
+    "EmpFirstName",
+    "EmpLastName",
+    "EmpAddress"
+  ]
+}
