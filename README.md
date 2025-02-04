@@ -466,6 +466,58 @@ Click below to try `CountCharactersBy` function in DataWeave:
 Click below to try `CountMatches` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/countMatches">CountMatches</a>
+
+#### Dasherize
+Click below to try `Dasherize` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/dasherize">Dasherize</a>
+
+
+#### EveryCharacter
+Click below to try `EveryCharacter` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/everyCharacter">EveryCharacter</a>
+
+#### First
+Click below to try `First` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/first">First</a>
+
+#### IsAlpha
+Click below to try `IsAlpha` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/isAlpha">IsAlpha</a>
+
+#### IsAlphanumeric
+Click below to try `IsAlphanumeric` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/isAlphanumeric">IsAlphanumeric</a>
+
+#### IsLowerCase
+Click below to try `IsLowerCase` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/isLowerCase">IsLowerCase</a>
+
+#### IsNumeric
+Click below to try `IsNumeric` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/isNumeric">IsNumeric</a>
+
+#### IsUpperCase
+Click below to try `IsUpperCase` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/isUpperCase">IsUpperCase</a>
+
+#### IsWhitespace
+Click below to try `IsWhitespace` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/isWhitespace">IsWhitespace</a>
+
+#### Last
+Click below to try `Last` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/last">Last</a>
+
 ## Exercise
 
 #### Date Time Format(XMLtoJSON)
