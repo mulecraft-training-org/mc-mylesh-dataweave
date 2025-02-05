@@ -622,6 +622,37 @@ Click below to try `SubstringBy` function in DataWeave:
 Click below to try `SubstringEvery` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/substringEvery">SubstringEvery</a>
+
+#### Underscore
+Click below to try `Underscore` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/underscore">Underscore</a>
+
+#### Unwrap
+Click below to try `Unwrap` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/unwrap">Unwrap</a>
+
+#### WithMaxSize
+Click below to try `WithMaxSize` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/withMaxSize">WithMaxSize</a>
+
+#### Words
+Click below to try `Words` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/words">Words</a>
+
+#### WrapIfMissing
+Click below to try `WrapIfMissing` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/wrapIfMissing">WrapIfMissing</a>
+
+#### WrapWith
+Click below to try `WrapWith` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/wrapWith">WrapWith</a>
+
 ## Exercise
 
 #### Date Time Format(XMLtoJSON)
