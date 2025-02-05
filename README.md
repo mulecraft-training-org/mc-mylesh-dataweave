@@ -518,6 +518,110 @@ Click below to try `Last` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/last">Last</a>
 
+#### LeftPad
+Click below to try `LeftPad` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/leftPad">LeftPad</a>
+
+#### LevenshteinDistance
+Click below to try `LevenshteinDistance` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/levenshteinDistance">LevenshteinDistance</a>
+
+#### Lines
+Click below to try `Lines` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/lines">Lines</a>
+
+#### MapString
+Click below to try `MapString` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/mapString">MapString</a>
+
+#### Ordinalize
+Click below to try `Ordinalize` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/ordinalize">Ordinalize</a>
+
+#### Pluralize
+Click below to try `Pluralize` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/pluralize">Pluralize</a>
+
+#### PrependIfMissing
+Click below to try `PrependIfMissing` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/prependIfMissing">PrependIfMissing</a>
+
+#### Remove
+Click below to try `Remove` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/remove">Remove</a>
+
+#### Repeat
+Click below to try `Repeat` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/repeat">Repeat</a>
+
+#### ReplaceAll
+Click below to try `ReplaceAll` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/replaceAll">ReplaceAll</a>
+
+#### Reverse
+Click below to try `Reverse` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/reverse">Reverse</a>
+
+#### RightPad
+Click below to try `RightPad` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/rightPad">RightPad</a>
+
+#### Singularize
+Click below to try `Singularize` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/singularize">Singularize</a>
+
+#### SomeCharacter
+Click below to try `SomeCharacter` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/someCharacter">SomeCharacter</a>
+
+#### Substring
+Click below to try `Substring` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/substring">Substring</a>
+
+#### SubstringAfter
+Click below to try `SubstringAfter` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/substringAfter">SubstringAfter</a>
+
+#### SubstringAfterLast
+Click below to try `SubstringAfterLast` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/substringAfterLast">SubstringAfterLast</a>
+
+#### SubstringBefore
+Click below to try `SubstringBefore` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/substringBefore">SubstringBefore</a>
+
+#### SubstringBeforeLast
+Click below to try `SubstringBeforeLast` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/substringBeforeLast">SubstringBeforeLast</a>
+
+#### SubstringBy
+Click below to try `SubstringBy` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/substringBy">SubstringBy</a>
+
+#### SubstringEvery
+Click below to try `SubstringEvery` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/substringEvery">SubstringEvery</a>
 ## Exercise
 
 #### Date Time Format(XMLtoJSON)
