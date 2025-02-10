@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Sprint Ticket",
+  "description": "Fix login issue",
+  "status": "In Progress",
+  "mobile" : "9876543210",
+  "priority": "High",
+  "assignee": "John Doe",
+  "sprint": "Sprint 15"
+}
