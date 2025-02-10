@@ -62,19 +62,16 @@ Click below to try `ApproimatelyEqual` function in DataWeave:
 ## Core
 
 #### ABS
-
 Click below to try `ABS` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/abs">ABS</a>
 
 #### AVG
-
 Click below to try `Finding average` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/avg">Finding average</a>
 
 #### Contains
-
 Click below to try `Contains` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::Core/contains">Contains</a>
@@ -653,6 +650,47 @@ Click below to try `WrapWith` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::strings/wrapWith">WrapWith</a>
 
+## Objects
+
+#### DivideBy
+Click below to try `DivideBy` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::objects/divideBy">DivideBy</a>
+
+#### EntrySet
+Click below to try `EntrySet` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::objects/entrySet">EntrySet</a>
+
+#### EveryEntry
+Click below to try `EveryEntry` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::objects/everyEntry">EveryEntry</a>
+
+#### KeySet
+Click below to try `KeySet` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::objects/keySet">KeySet</a>
+
+#### MergeWith
+Click below to try `MergeWith` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::objects/mergeWith">MergeWith</a>
+
+#### NameSet
+Click below to try `NameSet` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::objects/nameSet">NameSet</a>
+
+#### SomeEntry
+Click below to try `SomeEntry` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::objects/someEntry">SomeEntry</a>
+
+#### ValueSet
+Click below to try `ValueSet` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org%2Fmc-mylesh-dataweave&path=dw::core::objects/valueSet">ValueSet</a>
 ## Exercise
 
 #### Date Time Format(XMLtoJSON)
